@@ -1,0 +1,227 @@
+.background-container {
+    width: 100%;
+    height: 500px; /* Balandlikni o'zingiz xohlagancha o'zgartirishingiz mumkin */
+    background-image: url('https://www.bmw-m.com/content/dam/bmw/marketBMW_M/www_bmw-m_com/fastlane/bmw-individual/2024/bmw-individual-m3-touring-hd-02.jpg'); /* Rasmni joylash */
+    background-size: cover; /* Rasmni to'liq joylashtirish */
+    background-position: center; /* Rasmni markazda joylashtirish */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+  
+  .overlay-button {
+    padding: 15px 30px;
+    font-size: 18px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6); /* Yarim shaffof qora fon */
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+  }
+  
+  .overlay-button:hover {
+    background-color: blue; /* Hoverda biroz ko'proq qorayish */
+  }
+  
+.bwmn1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.btn1{
+    padding: 12px;
+    font-size: 12px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 25px;
+    border-color: white;
+    gap: 20px;
+}
+
+.btn1:hover {
+    background-color: blue; /* Hoverda biroz ko'proq qorayish */
+  }
+
+
+.btn2{
+    padding: 12px;
+    font-size: 12px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 25px;
+    border-color: white;
+    gap: 20px;
+}
+
+.btn2:hover {
+    background-color: blue; /* Hoverda biroz ko'proq qorayish */
+  }
+
+
+.btn3{
+    padding: 12px;
+    font-size: 12px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 25px;
+    border-color: white;
+    gap: 20px;
+}
+
+.btn3:hover {
+    background-color: blue; /* Hoverda biroz ko'proq qorayish */
+  }
+
+
+.btn4{
+    padding: 12px;
+    font-size: 12px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 25px;
+    border-color: white;
+    gap: 20px;
+}
+
+.btn4:hover {
+    background-color: blue; /* Hoverda biroz ko'proq qorayish */
+  }
+
+
+.btn5{
+    padding: 12px;
+    font-size: 12px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 25px;
+    border-color: white;
+    gap: 20px;
+}
+
+.btn5:hover {
+    background-color: blue; /* Hoverda biroz ko'proq qorayish */
+  }
+
+
+.btn6{
+    padding: 12px;
+    font-size: 12px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 25px;
+    border-color: white;
+    gap: 20px;
+}
+
+.btn6:hover {
+    background-color: blue; /* Hoverda biroz ko'proq qorayish */
+  }
+
+
+.btn7{
+    padding: 12px;
+    font-size: 12px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 25px;
+    border-color: white;
+    gap: 20px;
+}
+
+.btn7:hover {
+    background-color: blue; /* Hoverda biroz ko'proq qorayish */
+  }
+
+.btn8{
+    padding: 12px;
+    font-size: 12px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 25px;
+    border-color: white;
+    gap: 20px;
+}
+
+.btn8:hover {
+    background-color: blue; /* Hoverda biroz ko'proq qorayish */
+  }
+
+
+.btn9{
+    padding: 12px;
+    font-size: 12px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 25px;
+    border-color: white;
+    gap: 20px;
+}
+
+.btn9:hover {
+    background-color: blue; /* Hoverda biroz ko'proq qorayish */
+  }
+
+
+.btn10{
+    padding: 12px;
+    font-size: 12px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 25px;
+    border-color: white;
+    gap: 20px;
+}
+
+.btn10:hover {
+    background-color: blue; /* Hoverda biroz ko'proq qorayish */
+  }
+
+.mapp{
+  display: flex;
+  margin: auto;
+  margin-top: 25px;
+}
+
+
+.rasm>img{
+  height: 300px;
+  width: 400px;
+}
+
+.rasm1>img{
+  height: 255px;
+  width: 400px;
+}
+
+.rasm2>img{
+  height: 255px;
+  width: 400px;
+}
+
+.rasm3>img{
+  height: 300px;
+  width: 400px;
+}
+
+.rasm4>img{
+  height: 215px;
+  width: 3000px;
+}
+
+.rasm5>img{
+  height: 215px;
+  width: 3000px;
+}

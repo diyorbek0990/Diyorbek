@@ -1,0 +1,15 @@
+.contact{
+    margin: auto;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 420px;
+    background-color: lightgray;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+.tekstlar{
+    font-size: 20px;
+}
